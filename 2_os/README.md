@@ -6,7 +6,7 @@
 
 ### <a href="섹션 2. CPU와 Process, Thread.md">섹션 2. CPU와 Process, Thread</a>
 
-### 섹션 3. CPU와 프로세스간 통신
+### <a href="섹션 3. CPU와 프로세스간 통신.md">섹션 3. CPU와 프로세스간 통신</a>
 
 ### 섹션 4. 메모리 관리 기법
 
