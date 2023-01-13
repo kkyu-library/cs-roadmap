@@ -4,7 +4,7 @@
 
 ### <a href="섹션 1. 컴퓨터의 구조와 성능향상.md">섹션 1. 컴퓨터의 구조와 성능향상</a>
 
-### 섹션 2. CPU와 Process, Thread
+### <a href="섹션 2. CPU와 Process, Thread.md">섹션 2. CPU와 Process, Thread</a>
 
 ### 섹션 3. CPU와 프로세스간 통신
 
